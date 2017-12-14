@@ -1,3 +1,5 @@
+-[X] Try it!!
+
 ![](https://raw.githubusercontent.com/zeit/art/e0348ab1848337de87ccbb713fa33345aa0ba153/release/repo-banner.png)
 
 [![Build Status](https://travis-ci.org/zeit/release.svg?branch=master)](https://travis-ci.org/zeit/release)
